@@ -16,6 +16,7 @@ body {
     background-color: var(--color-slate-300, #D5E1EF);
     color: white;
 }
+
 @media (max-width: 768px) {
     body {
         display: flex;
@@ -25,4 +26,8 @@ body {
         justify-content: center;
         align-items: center;
     }
+}
+
+.atribution{
+    
 }
