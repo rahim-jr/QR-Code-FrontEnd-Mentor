@@ -1,35 +1,17 @@
-/**
- * This CSS rule targets the element with the class "container".
- * It sets the width to 100% to make the container span the full width of its parent.
- * The padding is set to 20px on all sides to provide space inside the container.
- * The margin is set to 0 auto to center the container horizontally within its parent.
- * The background color is set to a light gray (#f0f0f0) for visual distinction.
- * The border radius is set to 5px to give the container rounded corners.
- */
-body {
-    display: flex;
-    width: 1440px;
-    height: 960px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: var(--color-slate-300, #D5E1EF);
-    color: white;
+body{
+    font-family: outfit;
 }
 
-.qr-code img {
-    width: 288px;
-    height: 288px;
-    border-radius: 10px;    
+*{
+    margin:0 ;
+    padding: 0;
 }
 
-@media (max-width: 768px) {
-    body {
-        display: flex;
-        width: 375px;
-        height: 812px;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
+.container{
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+.qr-code{
+    
 }
