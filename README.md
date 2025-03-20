@@ -18,8 +18,8 @@ The QR code component challenge is a beginner-level project from Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rahim-jr/QR-Code-FrontEnd-Mentor)
-- Live Site URL: [Add live site URL here](https://rahim-jr.github.io/QR-Code-FrontEnd-Mentor/)
+- Solution URL: [LIVE LINK](https://github.com/rahim-jr/QR-Code-FrontEnd-Mentor)
+- Live Site URL: [LIVE LINK](https://rahim-jr.github.io/QR-Code-FrontEnd-Mentor/)
 
 ## My process
 This is a straightforward design. I didn't use any specialized framework for writing the solution. Plain HTML and CSS did the job.
