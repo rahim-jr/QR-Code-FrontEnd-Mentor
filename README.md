@@ -43,5 +43,5 @@ In future iterations, this project could be enhanced by incorporating dynamic QR
 
 ## Author
 
-- Frontend Mentor - [@yourusername] (https://www.frontendmentor.io/profile/rahim-senpai)
-- Twitter - [@yourusername](https://www.twitter.com/foundyourahim)
+- Frontend Mentor - [@rahim-senpai] (https://www.frontendmentor.io/profile/rahim-senpai)
+- Twitter - [@foundyourahim](https://www.twitter.com/foundyourahim)
